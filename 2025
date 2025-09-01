@@ -1,0 +1,472 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="https://i.postimg.cc/k5gXP7TD/LOGO-A-E.png" group-title="CANAIS DE FILMES", A&E HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81599
+
+#EXTINF:-1 tvg-id="adessotv.br" tvg-logo="https://i.postimg.cc/ZYVLm2Zq/LOGO-ADESSO-TV.png" group-title="VARIEDADES", ADESSO TV
+https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-logo="https://i.postimg.cc/vmMWtrcn/LOGO-ADRENALINA-PURA-TV.png" group-title="CANAIS DE FILMES", ADRENALINA PURA TV
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/64.m3u8
+
+#EXTINF:-1 tvg-id="amc.br" tvg-logo="https://i.postimg.cc/2yFP5Z6Y/LOGO-AMC.png" group-title="CANAIS DE FILMES", AMC
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81601
+
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-logo="https://i.postimg.cc/gkjDjhrK/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304490
+
+#EXTINF:-1 tvg-id="awtv.br" tvg-logo="https://i.postimg.cc/Ssxg3ZMC/LOGO-AWTV.png" group-title="TV ABERTA", AWTV HD
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+
+#EXTINF:-1 tvg-id="axn.br" tvg-logo="https://i.postimg.cc/L6g1G3nG/LOGO-AXN.png" group-title="CANAIS DE FILMES", AXN HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81600
+
+#EXTINF:-1 tvg-id="arte.1.br" tvg-logo="https://i.postimg.cc/636ZSsvh/LOGO-ARTE-1.png" group-title="VARIEDADES", ARTE 1 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/67512
+
+#EXTINF:-1 tvg-id="baby.tv.br" tvg-logo="https://i.postimg.cc/XYcp0H31/LOGO-BABY-TV.png" group-title="INFANTIL", BABY TV
+http://saga10.pro:80/345715/562156/1263430
+
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-logo="https://i.postimg.cc/wMqz8p50/LOGO-BAND-SP.png" group-title="TV ABERTA", BAND SP
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/43031
+
+#EXTINF:-1 tvg-id="band.rj.br" tvg-logo="https://i.postimg.cc/2yRq4VD3/LOGO-BAND-RJ.png" group-title="TV ABERTA", BAND RJ
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
+
+#EXTINF:-1 tvg-id="band.rj.br" tvg-logo="https://i.postimg.cc/2yRq4VD3/LOGO-BAND-RJ.png" group-title="TV ABERTA", BAND RJ 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/11724
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-logo="https://i.postimg.cc/t45mwxvQ/LOGO-BAND-SPORTS.png" group-title="CANAIS DE ESPORTES", BAND SPORTS
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81585
+
+#EXTINF:-1 tvg-id="band.news.br" tvg-logo="https://i.postimg.cc/hGZT7Dv7/LOGO-BAND-NEWS.png" group-title="NOTÍCIAS", BAND NEWS HD
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/21.m3u8
+
+#EXTINF:-1 tvg-id="bis.br" tvg-logo="https://i.postimg.cc/BZK7sy7C/LOGO-BIS-2.png" group-title="ENTRETENIMENTO", BIS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107985
+
+#EXTINF:-1 tvg-id="bob.esponja.br" tvg-logo="https://i.postimg.cc/9XqqZ3hz/LOGO-BOB-ESPONJA.png" group-title="24 HORAS", BOB ESPONJA
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/120
+
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-logo="https://i.postimg.cc/NG68dwPZ/LOGO-CANAL-BRASIL.png" group-title="CANAIS DE FILMES", CANAL BRASIL HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8692
+
+#EXTINF:-1 tvg-id="sony.br" tvg-logo="https://i.postimg.cc/4dS35nRp/LOGO-SONY-CHANNEL.png" group-title="CANAIS DE FILMES", CANAL SONY HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108180
+
+#EXTINF:-1 tvg-id="canaluol.br" tvg-logo="https://i.postimg.cc/Gt0nQ43T/LOGO-CANAL-UOL.png" group-title="NOTÍCIAS", CANAL UOL HD
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/61.m3u8
+
+#EXTINF:-1 tvg-id="cartoon.nwork.br" tvg-logo="https://i.postimg.cc/JzDGdNzt/LOGO-CARTOON-NETWORK.png" group-title="INFANTIL", CARTOON NETWORK
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125439
+
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-logo="https://i.postimg.cc/Kj8Y7LWG/LOGO-CARTOONITO.png" group-title="INFANTIL", CARTOONITO
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8687
+
+#EXTINF:-1 tvg-id="cav.drag.br" tvg-logo="https://i.postimg.cc/HnyD8sR9/LOGO-CAVERNA-DO-DRAG-O.png" group-title="24 HORAS", CAVERNA DO DRAGÃO
+http://saga10.pro:80/345715/562156/2639365
+
+#EXTINF:-1 tvg-id="centraltv.br" tvg-logo="https://i.postimg.cc/J0GNDrGY/LOGO-CENTRAL-TV.png" group-title="TV ABERTA", CENTRAL TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w938629533.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.br" tvg-logo="https://i.postimg.cc/FRDrKzH2/LOGO-CINEMAX.png" group-title="CANAIS DE FILMES", CINEMAX HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107978
+
+#EXTINF:-1 tvg-id="cine.sky.br" tvg-logo="https://i.postimg.cc/NMFsZkDS/LOGO-CINE-SKY.png" group-title="CANAIS DE FILMES", CINE SKY 01
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13071
+
+#EXTINF:-1 tvg-id="cine.sky.br" tvg-logo="https://i.postimg.cc/NMFsZkDS/LOGO-CINE-SKY.png" group-title="CANAIS DE FILMES", CINE SKY 02
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13072
+
+#EXTINF:-1 tvg-id="cine.sky.br" tvg-logo="https://i.postimg.cc/NMFsZkDS/LOGO-CINE-SKY.png" group-title="CANAIS DE FILMES", CINE SKY 03
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13073
+
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-logo="https://i.postimg.cc/c4VsCVd4/LOGO-CNN-BRASIL.png" group-title="NOTÍCIAS", CNN BRASIL HD
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/74.m3u8
+
+#EXTINF:-1 tvg-id="combate.br" tvg-logo="https://i.postimg.cc/JzNWn0TP/LOGO-COMBATE.png" group-title="CANAIS DE ESPORTES", COMBATE
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81586
+
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-logo="https://i.postimg.cc/Kj6dchB6/LOGO-COMEDY-CENTRAL.png" group-title="CANAIS DE FILMES", COMEDY CENTRAL HD
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/116.m3u8
+
+#EXTINF:-1 tvg-id="curta.br" tvg-logo="https://i.postimg.cc/PrfqDDBC/LOGO-CURTA.png" group-title="CANAIS DE FILMES", CURTA HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13507
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.postimg.cc/Yqcrq5r2/LOGO-DISCOVERY-CHANNEL.png" group-title="DOCUMENTÁRIOS", DISCOVERY CHANNEL HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91396
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i.postimg.cc/P5j5KB9V/LOGO-DICOVERY-H-H.png" group-title="DOCUMENTÁRIOS", DISCOVERY HOME & HEALTH HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91397
+
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-logo="https://i.postimg.cc/RCD9nzJ8/LOGO-DISCOVERY-KIDS.png" group-title="INFANTIL", DISCOVERY KIDS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125440
+
+#EXTINF:-1 tvg-id="116" tvg-logo="https://i.postimg.cc/FRdvhZwJ/LOGO-DISCOVERY-SCIENCE.png" group-title="DOCUMENTÁRIOS", DISCOVERY SCIENCE HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8745
+
+#EXTINF:-1 tvg-id="117" tvg-logo="https://i.postimg.cc/nLXgmL2y/LOGO-DISCOVERY-THEATER.png" group-title="DOCUMENTÁRIOS", DISCOVERY THEATER
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91401
+
+#EXTINF:-1 tvg-id="18" tvg-logo="https://i.postimg.cc/Qdynj3D0/LOGO-DISCOVERY-TURBO.png" group-title="DOCUMENTÁRIOS", DISCOVERY TURBO HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131181
+
+#EXTINF:-1 tvg-id="118" tvg-logo="https://i.postimg.cc/cC0FF174/LOGO-DISCOVERY-WORLD.png" group-title="DOCUMENTÁRIOS", DISCOVERY WORLD HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93905
+
+#EXTINF:-1 tvg-id="doishomensemeio.br" tvg-logo="https://i.postimg.cc/85g8md3L/LOGO-DOIS-HOMENS-E-MEIO.png" group-title="24 HORAS", DOIS HOMENS E MEIO
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595204
+
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-logo="https://i.postimg.cc/cJphJphW/LOGO-ESPN.png" group-title="CANAIS DE ESPORTES", ESPN
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598912
+
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-logo="https://i.postimg.cc/bYCGHxXD/LOGO-ESPN-2.png" group-title="CANAIS DE ESPORTES", ESPN 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81587
+
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-logo="https://i.postimg.cc/257yqvF5/LOGO-ESPN-3.png" group-title="CANAIS DE ESPORTES", ESPN 3
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81588
+
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-logo="htthttps://i.postimg.cc/63HQcXPJ/LOGO-ESPN-4.png" group-title="CANAIS DE ESPORTES", ESPN 4
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81578
+
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-logo="https://i.postimg.cc/brDqR2bk/LOGO-ESPN-5.png" group-title="CANAIS DE ESPORTES", ESPN 5
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81594
+
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-logo="https://i.postimg.cc/GhPmgGVx/LOGO-ESPN-6.png" group-title="CANAIS DE ESPORTES", ESPN 6
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81590
+
+#EXTINF:-1 tvg-id="e.br" tvg-logo="https://i.postimg.cc/05XxJKBP/LOGO-E.png" group-title="VARIEDADES", E!
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8782
+
+#EXTINF:-1 tvg-id="fish.br" tvg-logo="https://i.postimg.cc/LsPvRgN8/LOGO-FISH-TV.png" group-title="VARIEDADES", FISH TV
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8808
+
+#EXTINF:-1 tvg-id="food.network.br" tvg-logo="https://i.postimg.cc/vT1xrF7z/LOGO-FOODNETWORK.png" group-title="VARIEDADES", FOOD NETWORK
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13522
+
+#EXTINF:-1 tvg-id="formiga.atomica.br" tvg-logo="https://i.postimg.cc/nLMfvkQk/LOGO-FORMIGA-AT-MICA-24-H.png" group-title="24 HORAS", FORMIGA ATÔMICA
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595244
+
+#EXTINF:-1 tvg-id="fuel.tv.br" tvg-logo="https://i.postimg.cc/D0KHDQ7T/LOGO-FUEL-TV.png" group-title="CANAIS DE ESPORTES", FUEL TV
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/101.m3u8
+
+#EXTINF:-1 tvg-id="gallotv.br" tvg-logo="https://i.postimg.cc/fTDpwLZw/LOGO-TV-GALLO.png" group-title="CANAIS DE FILMES", GALLO TV
+https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w520725105.m3u8
+
+#EXTINF:-1 tvg-id="geekdot.br" tvg-logo="https://i.postimg.cc/rFrKM4R3/LOGO-GEEKDOT.png" group-title="VARIEDADES", GEEKDOT HD
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-logo="https://i.postimg.cc/fLyMPZwZ/LOGO-TV-GLOBO-RJ.png" group-title="TV ABERTA", GLOBO RJ
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81577
+
+#EXTINF:-1 tvg-id="tvintegracao.jf.br" tvg-logo="https://i.postimg.cc/Zn0F094g/LOGO-TV-INTEGRA-O-JUIZ-DE-FORA.png" group-title="TV ABERTA", TV INTEGRAÇÃO JUIZ DE FORA
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/124548
+
+#EXTINF:-1 tvg-id="globo.news.br" tvg-logo="https://i.postimg.cc/JhFZnLKz/LOGO-GLOBO-NEWS.png" group-title="NOTÍCIAS", GLOBO NEWS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81598
+
+#EXTINF:-1 tvg-id="globoplay.novelas.br" tvg-logo="https://i.postimg.cc/zBcZsmPY/LOGO-GLOBOPLAY-NOVELAS.png" group-title="VARIEDADES", GLOBOPLAY NOVELAS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107983
+
+#EXTINF:-1 tvg-id="gnt.br" tvg-logo="https://i.postimg.cc/zD0DSBw3/LOGO-GNT.png" group-title="VARIEDADES", GNT HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107984
+
+#EXTINF:-1 tvg-id="gloob.br" tvg-logo="https://i.postimg.cc/3NWf2Rbc/LOGO-GLOOB.png" group-title="INFANTIL", GLOOB HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8888
+
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-logo="https://i.postimg.cc/dQHVFxRs/LOGO-GLOOBINHO.png" group-title="INFANTIL", GLOOBINHO HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69036
+
+#EXTINF:-1 tvg-id="hbo.br" tvg-logo="https://i.postimg.cc/bYbRL0fv/LOGO-HBO.png" group-title="CANAIS DE FILMES", HBO HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94381
+
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-logo="https://i.postimg.cc/Dz8rGLcn/LOGO-HBO-2.png" group-title="CANAIS DE FILMES", HBO 2 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94382
+
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-logo="https://i.postimg.cc/L5MLG7F8/LOGO-HBO-FAMILY.png" group-title="CANAIS DE FILMES", HBO FAMILY HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94383
+
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-logo="https://i.postimg.cc/TwPb57Bk/LOGO-HBO-POP.png" group-title="CANAIS DE FILMES", HBO POP HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94386
+
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-logo="https://i.postimg.cc/BZgjqtxg/LOGO-HBO-PLUS.png" group-title="CANAIS DE FILMES", HBO PLUS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94385
+
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-logo="https://i.postimg.cc/nLhr3sTr/LOGO-HBO-XTREME.png" group-title="CANAIS DE FILMES", HBO XTREME HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13536
+
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-logo="https://i.postimg.cc/jSjPVPmP/LOGO-HBO-SIGNATURE.png" group-title="CANAIS DE FILMES", HBO SIGNATURE HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94387
+
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-logo="https://i.postimg.cc/x8BBqf99/LOGO-HBO-MUNDI.png" group-title="CANAIS DE FILMES", HBO MUNDI HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94384
+
+#EXTINF:-1 tvg-id="hgtv.br" tvg-logo="https://i.postimg.cc/bY3bDqs9/LOGO-HGTV.png" group-title="ENTRETENIMENTO", HGTV HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304507
+
+#EXTINF:-1 tvg-id="history.br" tvg-logo="https://i.postimg.cc/DfMdVXM9/LOGO-HISTORY.png" group-title="DOCUMENTÁRIOS", HISTORY CHANNEL HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304495
+
+#EXTINF:-1 tvg-id="history.2.br" tvg-logo="https://i.postimg.cc/TP0gtLbH/LOGO-HISTORY-2.png" group-title="DOCUMENTÁRIOS", HISTORY 2 HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304499
+
+#EXTINF:-1 tvg-id="homem.aranha.br" tvg-logo="https://i.postimg.cc/X7S3GdsT/LOGO-HOMEM-ARANHA.png" group-title="24 HORAS", HOMEM ARANHA
+http://saga10.pro:80/345715/562156/2639399
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.postimg.cc/hv21MLPp/LOGO-ID-DISCOVERY.png" group-title="DOCUMENTÁRIOS", ID - INVESTIGAÇÃO DISCOVERY HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91403
+
+#EXTINF:-1 tvg-id="istv.br" tvg-logo="https://i.postimg.cc/C5PTsdRb/LOGO-ISTV.png" group-title="TV ABERTA", ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w1074595475.m3u8
+
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-logo="https://i.postimg.cc/5ymL3F5s/LOGO-TV-JOVEM-PAN-NEWS.png" group-title="NOTÍCIAS", JOVEM PAN NEWS HD
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/47.m3u8
+
+#EXTINF:-1 tvg-id="lifetime.br" tvg-logo="https://i.postimg.cc/rw9kfjk4/LOGO-LIFETIME.png" group-title="ENTRETENIMENTO", LIFETIME HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8943
+
+#EXTINF:-1 tvg-id="maguila.gorila.br" tvg-logo="https://i.postimg.cc/rpxyYjZC/LOGO-MAGUILA-O-GORILA.png" group-title="24 HORAS", MAGUILA O GORILA
+http://saga10.pro:80/345715/562156/2639414
+
+#EXTINF:-1 tvg-id="megapix.br" tvg-logo="https://i.postimg.cc/0NmGq9Bp/LOGO-MEGAPIX.png" group-title="CANAIS DE FILMES", MEGAPIX HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107982
+
+#EXTINF:-1 tvg-id="mister.magoo.br" tvg-logo="https://i.postimg.cc/SRFmLMf1/LOGO-MISTER-MAGOO.png" group-title="24 HORAS", MISTER MAGOO
+http://saga10.pro:80/345715/562156/2639420
+
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-logo="https://i.postimg.cc/zv2TTq0Q/LOGO-MODO-VIAGEM.png" group-title="ENTRETENIMENTO", MODO VIAGEM HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8883
+
+#EXTINF:-1 tvg-id="moviesphere.br" tvg-logo="https://i.postimg.cc/tgtNKrLD/LOGO-MOVIE-SPHERE.png" group-title="CANAIS DE FILMES", MOVIE SPHERE
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv.br" tvg-logo="https://i.postimg.cc/nr6ztShM/LOGO-MTV.png" group-title="ENTRETENIMENTO", MTV HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8971
+
+#EXTINF:-1 tvg-id="mtv.br" tvg-logo="https://i.postimg.cc/g21fH9Bx/LOGO-MTV-00.png" group-title="ENTRETENIMENTO", MTV 00's HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8970
+
+#EXTINF:-1 tvg-id="mtv.live.br" tvg-logo="https://i.postimg.cc/TPGc6CKk/LOGO-MTV-LIVE.png" group-title="ENTRETENIMENTO", MTV LIVE HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8972
+
+#EXTINF:-1 tvg-id="multishow.br" tvg-logo="https://i.postimg.cc/TPQZbymc/LOGO-MULTISHOW.png" group-title="ENTRETENIMENTO", MULTISHOW HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8975
+
+#EXTINF:-1 tvg-id="nickjf.br" tvg-logo="https://i.postimg.cc/sfJ1NG7F/LOGO-NICK-JR.png" group-title="INFANTIL", NICK JR
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8986
+
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-logo="https://i.postimg.cc/T1N7PYLR/LOGO-NICKELODEON.png" group-title="INFANTIL", NICKELODEON
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8989
+
+#EXTINF:-1 tvg-id="off.br" tvg-logo="https://i.postimg.cc/rsYTNwXP/LOGO-CANAL-OFF.png" group-title="VARIEDADES", OFF HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8997
+
+#EXTINF:-1 tvg-id="osflintstones.br" tvg-logo="https://i.postimg.cc/rwngP6Yx/LOGO-OS-FLINTSTONES.png" group-title="24 HORAS", OS FLINTSTONES
+http://saga10.pro:80/345715/562156/2639427
+
+#EXTINF:-1 tvg-id="ossimpsons.br" tvg-logo="https://i.postimg.cc/Yqmp9kQq/LOGO-OS-SIMPSONS.png" group-title="24 HORAS", OS SIMPSONS
+http://saga10.pro:80/345715/562156/2639432
+
+#EXTINF:-1 tvg-id="osjetsons.br" tvg-logo="https://i.postimg.cc/Y2s2KbTB/LOGO-OS-JETSONS.png" group-title="24 HORAS", OS JETSONS
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595345
+
+#EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://i.postimg.cc/x1Zbsq90/LOGO-PARAMOUNT-CHANNEL-NETWORK.png" group-title="CANAIS DE FILMES", PARAMOUNT NETWORK HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9007
+
+#EXTINF:-1 tvg-id="paramountplus.br" tvg-logo="https://i.postimg.cc/wTGJnK39/LOGO-PARAMOUNT-PLUS.png" group-title="CANAIS DE ESPORTES", PARAMOUNT PLUS 1
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/240737
+
+#EXTINF:-1 tvg-id="paramountplus.br" tvg-logo="https://i.postimg.cc/wTGJnK39/LOGO-PARAMOUNT-PLUS.png" group-title="CANAIS DE ESPORTES", PARAMOUNT PLUS 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/240739
+
+#EXTINF:-1 tvg-id="paramountplus.br" tvg-logo="https://i.postimg.cc/wTGJnK39/LOGO-PARAMOUNT-PLUS.png" group-title="CANAIS DE ESPORTES", PARAMOUNT PLUS 3
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295698
+
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://i.postimg.cc/qvKGJZH2/LOGO-PREMIERE.png" group-title="CANAIS DE ESPORTES", PREMIERE
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125438
+
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://i.postimg.cc/qvKGJZH2/LOGO-PREMIERE.png" group-title="CANAIS DE ESPORTES", PREMIERE 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81582
+
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://i.postimg.cc/qvKGJZH2/LOGO-PREMIERE.png" group-title="CANAIS DE ESPORTES", PREMIERE 3
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81583
+
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://i.postimg.cc/qvKGJZH2/LOGO-PREMIERE.png" group-title="CANAIS DE ESPORTES", PREMIERE 4
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81616
+
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://i.postimg.cc/qvKGJZH2/LOGO-PREMIERE.png" group-title="CANAIS DE ESPORTES", PREMIERE 5
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/82751
+
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://i.postimg.cc/qvKGJZH2/LOGO-PREMIERE.png" group-title="CANAIS DE ESPORTES", PREMIERE 6
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/82753
+
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://i.postimg.cc/qvKGJZH2/LOGO-PREMIERE.png" group-title="CANAIS DE ESPORTES", PREMIERE 7
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108313
+
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://i.postimg.cc/qvKGJZH2/LOGO-PREMIERE.png" group-title="CANAIS DE ESPORTES", PREMIERE 8
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13582
+
+#EXTINF:-1 tvg-id="317" tvg-logo="https://i.postimg.cc/gkfZpS53/LOGO-RECORD-SP.png" group-title="TV ABERTA", RECORD SP
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/38065
+
+#EXTINF:-1 tvg-id="record.br" tvg-logo="https://i.postimg.cc/66Mrkhth/LOGO-RECORD-RJ.png" group-title="TV ABERTA", RECORD RJ
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
+
+#EXTINF:-1 tvg-id="record.news.br" tvg-logo="https://i.postimg.cc/NFdr3vyt/LOGO-RECORD-NEWS.png" group-title="NOTÍCIAS", RECORD NEWS HD
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/23.m3u8
+
+#EXTINF:-1 tvg-id="redbull.tv.br" tvg-logo="https://i.postimg.cc/pLxBkt7r/LOGO-REDBULL-TV.png" group-title="CANAIS DE ESPORTES", REDBULL TV HD
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/46.m3u8
+
+#EXTINF:-1 tvg-id="redetv.sp.br" tvg-logo="https://i.postimg.cc/pTGm6qzh/LOGO-REDE-TV.png" group-title="TV ABERTA", REDE TV SP
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9074
+
+#EXTINF:-1 tvg-id="redetv.rj.br" tvg-logo="https://i.postimg.cc/9Xnr6zM3/Logotipo-da-Rede-TV.png" group-title="TV ABERTA", REDE TV RJ
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/16.m3u8
+
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-logo="https://i.postimg.cc/VNp83Jgg/LOGO-REDE-BRASIL.png" group-title="TV ABERTA", REDE BRASIL
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1527745619.m3u8
+
+#EXTINF:-1 tvg-id="184" tvg-logo="https://i.postimg.cc/d3gLq3WJ/LOGO-SBT.png" group-title="TV ABERTA", SBT SP
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9082
+
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-logo="https://i.postimg.cc/d3gLq3WJ/LOGO-SBT.png" group-title="TV ABERTA", SBT RJ
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/2.m3u8
+
+#EXTINF:-1 tvg-id="space.br" tvg-logo="https://i.postimg.cc/VLs6FGg1/LOGO-SPACE.png" group-title="CANAIS DE FILMES", SPACE HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108181
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://i.postimg.cc/vmKYxzxb/LOGO-SPORTV.png" group-title="CANAIS DE ESPORTES", SPORTV
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81591
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://i.postimg.cc/nchPNtwS/LOGO-SPORTV-2.png" group-title="CANAIS DE ESPORTES", SPORTV 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81592
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://i.postimg.cc/sxN9tbvb/LOGO-SPORTV-3.png" group-title="CANAIS DE ESPORTES", SPORTV 3
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81593
+
+#EXTINF:-1 tvg-id="sportynet.br" tvg-logo="https://i.postimg.cc/wB4Pkxzd/LOGO-SPORTY-NET.png" group-title="CANAIS DE ESPORTES", SPORTY NET 1
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227505
+
+#EXTINF:-1 tvg-id="sportynet.br" tvg-logo="https://i.postimg.cc/NFmzY1Hg/LOGO-SPORTY-NET-2.png" group-title="CANAIS DE ESPORTES", SPORTY NET 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227506
+
+#EXTINF:-1 tvg-id="sportynet.br" tvg-logo="https://i.postimg.cc/kXNppvCs/LOGO-SPORTY-NET-3.png" group-title="CANAIS DE ESPORTES", SPORTY NET 3
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227508
+
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-logo="https://i.postimg.cc/J0SHgjPM/LOGO-STUDIO-UNIVERSAL.png" group-title="CANAIS DE FILMES", STUDIO UNIVERSAL HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9115
+
+#EXTINF:-1 tvg-id="tartaruga.touche.br" tvg-logo="https://i.postimg.cc/V6qmsNXx/LOGO-TARTARUGA-TOUCHE.png" group-title="24 HORAS", TARTARUGA TOUCHE
+http://saga10.pro:80/345715/562156/2639468
+
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-logo="https://i.postimg.cc/gk1pqDY0/LOGO-TELECINE-PREMIUM.png" group-title="CANAIS DE FILMES", TELECINE PREMIUM HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94379
+
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-logo="https://i.postimg.cc/5tSMJW8H/LOGO-TELECINE-ACTION.png" group-title="CANAIS DE FILMES", TELECINE ACTION HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94375
+
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-logo="https://i.postimg.cc/9Q33qQpR/LOGO-TELECINE-PIPOCA.png" group-title="CANAIS DE FILMES", TELECINE PIPOCA HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94378
+
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-logo="https://i.postimg.cc/5NCT1MVx/LOGO-TELECINE-FUN.png" group-title="CANAIS DE FILMES", TELECINE FUN HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94377
+
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-logo="https://i.postimg.cc/hGS59z7j/LOGO-TELECINE-TOUCH.png" group-title="CANAIS DE FILMES", TELECINE TOUCH HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94380
+
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-logo="https://i.postimg.cc/MTH3FC5J/LOGO-TELECINE-CULT.png" group-title="CANAIS DE FILMES", TELECINE CULT HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94376
+
+#EXTINF:-1 tvg-id="thundercats.br" tvg-logo="https://i.postimg.cc/JhVmCmZ9/LOGO-THUNDERCATS.png" group-title="24 HORAS", THUNDERCATS
+http://saga10.pro:80/345715/562156/2639470
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.postimg.cc/kMQmgHZ9/LOGO-TLC.png" group-title="VARIEDADES", TLC HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91400
+
+#EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://i.postimg.cc/pXdWj9VL/LOGO-TNT.png" group-title="CANAIS DE FILMES", TNT HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594019
+
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-logo="https://i.postimg.cc/25NN03Yv/LOGO-TNT-S-RIES.png" group-title="CANAIS DE FILMES", TNT SÉRIES HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108184
+
+#EXTINF:-1 tvg-id="tnt.novelas.br" tvg-logo="https://i.postimg.cc/63DSY5Fg/LOGO-TNT-NOVELAS.png" group-title="VARIEDADES", TNT NOVELAS HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275102
+
+#EXTINF:-1 tvg-id="tooncast.br" tvg-logo="https://i.postimg.cc/Gp425Mr9/LOGO-TOONCAST.png" group-title="INFANTIL", TOONCAST
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125444
+
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-logo="https://i.postimg.cc/9MSTsYwM/LOGO-TV-BRASIL.png" group-title="TV ABERTA", TV BRASIL
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/43030
+
+#EXTINF:-1 tvg-id="tvdiario.br" tvg-logo="https://i.postimg.cc/N09zWp59/LOGO-TV-DI-RIO.png" group-title="TV ABERTA", TV DIÁRIO
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69243
+
+#EXTINF:-1 tvg-id="gazeta.br" tvg-logo="https://i.postimg.cc/0Nk7QTjK/LOGO-TV-GAZETA.png" group-title="TV ABERTA", TV GAZETA
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/67852
+
+#EXTINF:-1 tvg-id="universal.br" tvg-logo="https://i.postimg.cc/KYXSzjsj/LOGO-UNIVERSAL-TV.png" group-title="CANAIS DE FILMES", UNIVERSAL TV HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108185
+
+#EXTINF:-1 tvg-id="udocs.br" tvg-logo="https://i.postimg.cc/8zwP5RKN/LOGO-URBAN-DOCS.png" group-title="VARIEDADES", U DOCS
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/124.m3u8
+
+#EXTINF:-1 tvg-id="udrive.br" tvg-logo="https://i.postimg.cc/5tjKzJ3j/LOGO-URBAN-DRIVE.png" group-title="VARIEDADES", U DRIVE
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/111.m3u8
+
+#EXTINF:-1 tvg-id="ukids.br" tvg-logo="https://i.postimg.cc/524rST1d/LOGO-URBAN-KIDS.png" group-title="INFANTIL", U KIDS
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/105.m3u8
+
+#EXTINF:-1 tvg-id="u.movies.br" tvg-logo="https://i.postimg.cc/d35MmBz9/LOGO-URBAN-MOVIES.png" group-title="CANAIS DE FILMES", U MOVIES
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/108.m3u8
+
+#EXTINF:-1 tvg-id="useries.br" tvg-logo="https://i.postimg.cc/BZT2Zy0F/LOGO-URBAN-S-RIES.png" group-title="CANAIS DE FILMES", U SÉRIES
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/110.m3u8
+
+#EXTINF:-1 tvg-id="utravel.br" tvg-logo="https://i.postimg.cc/rswykKTQ/LOGO-URBAN-TRAVEL.png" group-title="VARIEDADES", U TRAVEL
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/111.m3u8
+
+#EXTINF:-1 tvg-id="viajandopelobrasil.br" tvg-logo="https://i.postimg.cc/pV7jM0jx/LOGO-VIAJANDO-PELO-BRASIL.png" group-title="VARIEDADES", VIAJANDO PELO BRASIL
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/65.m3u8
+
+#EXTINF:-1 tvg-id="warner.br" tvg-logo="https://i.postimg.cc/rmkcwjwK/LOGO-WARNER-TV.png" group-title="CANAIS DE FILMES", WARNER CHANNEL HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107981
+
+#EXTINF:-1 tvg-id="woohoo.br" tvg-logo="https://i.postimg.cc/652fXGH4/LOGO-WOOHOO.png" group-title="VARIEDADES", WOOHOO
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/73.m3u8
+
+#EXTINF:-1 tvg-id="playboy.tv.br" tvg-logo="https://i.postimg.cc/RFRksS29/LOGO-PLAYBOY-TV.png" group-title="XXX", PLAYBOY TV HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9446
+
+#EXTINF:-1 tvg-id="sexyhot.tv.br" tvg-logo="https://i.postimg.cc/jdW1N4qR/LOGO-SEXY-HOT.png" group-title="XXX", SEXY HOT TV HD
+http://testeeng.com:80/938915698/H788v6338E/260420
+
+#EXTINF:-1 tvg-id="sextreme.tv.br" tvg-logo="https://i.postimg.cc/yYgzcRnm/LOGO-SEXTREME.png" group-title="XXX", SEXTREME HD
+http://testeeng.com:80/938915698/H788v6338E/546893
+
+#EXTINF:-1 tvg-id="sex.prive.br" tvg-logo="https://i.postimg.cc/qqC4J65x/LOGO-SEXYPRIV.png" group-title="XXX", SEXPRIVE HD
+http://testeeng.com:80/938915698/H788v6338E/546890
+
+#EXTINF:-1 tvg-id="venus.tv.br" tvg-logo="https://i.postimg.cc/4dSDkL4F/LOGO-VENUS.png" group-title="XXX", VENUS TV
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9447
+
+#EXTINF:-1 tvg-id="brasileirinhas.br" tvg-logo="https://i.postimg.cc/9QhvhqVV/LOGO-BRASILEIRINHAS.png" group-title="XXX", BRASILEIRINHAS
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/217162
+
+#EXTINF:-1 tvg-id="brasileirinhas.br" tvg-logo="https://i.postimg.cc/9QhvhqVV/LOGO-BRASILEIRINHAS.png" group-title="XXX", BRASILEIRINHAS 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/278906
+
+#EXTINF:-1 tvg-id="adultos.tv.br" tvg-logo="https://i.postimg.cc/ZqKL18W2/LOGO-ADULTOS-24-HORAS.png" group-title="XXX", ADULTOS 24 HORAS
+http://testeeng.com:80/938915698/H788v6338E/271543
+
+#EXTINF:-1 tvg-id="adultos.tv.br" tvg-logo="https://i.postimg.cc/ZqKL18W2/LOGO-ADULTOS-24-HORAS.png" group-title="XXX", ADULTOS 24 HORAS
+http://testeeng.com:80/938915698/H788v6338E/271537
+
+#EXTINF:-1 tvg-id="sjwr.br" tvg-logo="https://i.postimg.cc/g07899Mv/LOGO-SUPER-JAVA-WEB-R-DIO.png" group-title="RÁDIOS", SUPER JAVA WEB RÁDIO
+https://stream-176.zeno.fm/ego2eudayomtv
+
+#EXTINF:-1 tvg-id="fmodia.br" tvg-logo="https://i.postimg.cc/W3Hmf0ST/LOGO-FM-O-DIA.png" group-title="RÁDIOS", FM O DIA
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/42.m3u8
+
+#EXTINF:-1 tvg-id="clubefm.br" tvg-logo="https://i.postimg.cc/SNwTKb6k/LOGO-CLUBE-FM.png" group-title="RÁDIOS", CLUBE FM
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
